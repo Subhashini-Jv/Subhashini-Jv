@@ -1,54 +1,67 @@
-# Hello World! I'm Subhashini J
+# Hello, I'm Subhashini J
 
-![Dynamic Engineering Role](https://demolab.com)
+<p align="center">
+  <img src="https://demolab.com" alt="Dynamic Engineering Role" />
+</p>
 
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-[![Gmail](https://shields.io)](mailto:your-email@gmail.com)
-
----
-
-### Core Competencies & Advanced Skill Badges
-
-#### Programming Languages
-![](https://shields.io) ![](https://shields.io) ![](https://shields.io)
-
-#### Generative AI & Machine Learning Ecosystem
-![](https://shields.io) ![](https://shields.io) ![](https://shields.io) 
-![](https://shields.io) ![](https://shields.io)
-
-#### Database & Vector Infrastructure
-![](https://shields.io) ![](https://shields.io) ![](https://shields.io)
-
-#### Web Architecture & Cloud Operations
-![](https://shields.io) ![](https://shields.io) ![](https://shields.io) 
-![](https://shields.io) ![](https://shields.io)
-
-#### Business Intelligence & Analytics Data Modeling
-![](https://shields.io) ![](https://shields.io) ![](https://shields.io)
+<p align="center">
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn Platform"/>
+  </a>
+</p>
 
 ---
 
-### Featured Production Architectures
+### Core Competencies & Advanced Technical Skills
 
-[![](https://vercel.app)](https://github.com)
-[![](https://vercel.app)](https://github.com)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Programming Languages</h4>
+      <img src="https://shields.io" alt="Python" />
+      <img src="https://shields.io" alt="Java" />
+      <img src="https://shields.io" alt="JavaScript" />
+      <br/><br/>
+      <h4>Generative AI Ecosystem</h4>
+      <img src="https://shields.io" alt="LangChain" />
+      <img src="https://shields.io" alt="CrewAI" />
+      <br/>
+      <img src="https://shields.io" alt="Scikit-Learn" />
+      <img src="https://shields.io" alt="NumPy" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>Database Infrastructure</h4>
+      <img src="https://shields.io" alt="PostgreSQL" />
+      <img src="https://shields.io" alt="MySQL" />
+      <img src="https://shields.io" alt="Redis" />
+      <br/><br/>
+      <h4>Cloud & UI Frameworks</h4>
+      <img src="https://shields.io" alt="React" />
+      <img src="https://shields.io" alt="AWS" />
+      <img src="https://shields.io" alt="Git" />
+    </td>
+  </tr>
+</table>
 
-[![](https://vercel.app)](https://github.com)
-[![](https://vercel.app)](https://github.com)
+<table>
+  <tr>
+    <td width="100%">
+      <h4>Business Intelligence & Analytics Data Modeling</h4>
+      <img src="https://shields.io" alt="Power BI" />
+      <img src="https://shields.io" alt="Tableau" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### Real-time Engineering Metrics
 
-![](https://herokuapp.com)
+<p align="center">
+  <img src="https://herokuapp.com" alt="Live Code Activity Deployment Streak Calendar" width="100%" />
+</p>
 
-![](https://vercel.app)
-![](https://vercel.app)
-
----
-
-### Profile Achievements & Engagement
-
-![](https://vercel.app)
-
-![](https://komarev.com)
+<p align="center">
+  <img src="https://vercel.app" alt="Global Account Performance Metrics" width="49%" />
+  <img src="https://vercel.app" alt="Dynamic Code Language Distribution Analysis" width="49%" />
+</p>
