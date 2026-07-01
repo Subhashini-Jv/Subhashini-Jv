@@ -3,15 +3,15 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Subhashini%20J&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Final-Year%20AI%20%26%20Data%20Science%20Student%20%7C%20GenAI%20%26%20Agentic%20Systems&descAlignY=62&descSize=16" width="100%"/>
 
 <a href="https://linkedin.com/in/subhashini-jayavaradharaj/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:subhashinij2006@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://github.com/Subhashini-Jv">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<img src="https://img.shields.io/badge/Location-Coimbatore,%20India-6a11cb?style=flat-square&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/Location-Coimbatore,%20India-6A11CB?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
 <br/>
 
@@ -23,34 +23,22 @@
 
 ### 👩‍💻 About Me
 
-```python
-class Subhashini:
-    def __init__(self):
-        self.name = "Subhashini J"
-        self.location = "Coimbatore, Tamil Nadu, India"
-        self.degree = "B.Tech, Artificial Intelligence & Data Science (2027)"
-        self.role = "Generative AI & Agentic Systems Enthusiast"
+I'm a final-year **AI & Data Science** student from Coimbatore, India, building my way through Generative AI, agentic systems, and full-stack development — one project at a time. I like taking messy, ambiguous problems and turning them into working pipelines: an agent that plans its own next steps, a chatbot that talks to a database, a dashboard that tells a clear story from noisy data.
 
-        self.stack = [
-            "Python", "SQL", "JavaScript", "FastAPI",
-            "LangChain", "LangGraph", "CrewAI", "React"
-        ]
+Outside of coursework, I'm usually deep in a side project involving LLMs and multi-agent orchestration, or polishing a BI dashboard until the numbers actually make sense to a non-technical reader.
 
-        self.currently_learning = [
-            "Advanced Agentic AI Orchestration",
-            "Multi-Agent System Design",
-            "Scalable RAG Pipelines"
-        ]
+<div align="center">
 
-        self.fun_fact = "I taught an AI agent to fix its own API errors 🤖🔧"
+| | |
+|---|---|
+| 🎓 **Studying** | B.Tech, AI & Data Science — Dr. N.G.P. Institute of Technology (2027) |
+| 🔭 **Currently Building** | Multi-agent systems with LangGraph & CrewAI |
+| 🌱 **Currently Learning** | Advanced Agentic AI Orchestration, Scalable RAG Pipelines |
+| 💬 **Ask Me About** | LLMs, RAG, Agentic AI, Power BI, Full-Stack Dev |
+| 📫 **Reach Me** | subhashinij2006@gmail.com |
+| ⚡ **Fun Fact** | I've debugged an AI agent that kept trying to fix its own bugs 🤖 |
 
-    def motto(self):
-        return "Learn fast. Build faster. Ship value."
-
-
-me = Subhashini()
-print(me.motto())
-```
+</div>
 
 ---
 
@@ -58,44 +46,44 @@ print(me.motto())
 
 **Languages**
 <p> 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 </p>
 
 **Frameworks & Web**
 <p>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
-<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </p>
 
 **Generative AI & Agentic Systems**
 <p>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square"/>
-<img src="https://img.shields.io/badge/CrewAI-000000?style=flat-square"/>
-<img src="https://img.shields.io/badge/RAG-6a11cb?style=flat-square"/>
-<img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square"/>
-<img src="https://img.shields.io/badge/Prompt%20Engineering-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-2E7D32?style=for-the-badge&logo=graphql&logoColor=white"/>
+<img src="https://img.shields.io/badge/CrewAI-6A11CB?style=for-the-badge&logo=robotframework&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-8E2DE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
 
 **Databases**
 <p>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 **BI & Analytics**
 <p>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 </p>
 
 ---
