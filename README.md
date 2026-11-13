@@ -28,7 +28,7 @@
 
 I am a final-year B.Tech student in Artificial Intelligence and Data Science and currently working as an **AI Engineer at Vankaal AI Automation**.
 
-My work and interests focus on Generative AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Agentic AI, multi-agent architectures and intelligent automation.
+My interests include Generative AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Agentic AI, multi-agent architectures and intelligent automation.
 
 I enjoy transforming real-world problems into practical technology solutions by developing AI-powered applications, intelligent workflows, backend services and enterprise automation systems.
 
@@ -178,8 +178,8 @@ An analytics solution designed to explore customer retention, churn patterns, bu
 | Certification | Issuing Organization | Issued |
 |---|---|---|
 | Power BI for Beginners | Simplilearn | December 2025 |
-| Foundations of Cyber Security | As listed on certificate | Verify |
-| Human-Computer Interaction | As listed on certificate | Verify |
+| Foundations of Cyber Security | Verify certificate issuer | — |
+| Human-Computer Interaction | Verify certificate issuer | — |
 
 ---
 
@@ -224,21 +224,19 @@ An analytics solution designed to explore customer retention, churn patterns, bu
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Subhashini-Jv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Subhashini-Jv&show_icons=true&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Statistics"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhashini-Jv&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhashini-Jv&layout=compact&theme=tokyonight&hide_border=true" width="42%" alt="Top Languages"/>
 
-<br/>
+</div>
 
-<img src="https://streak-stats.demolab.com?user=Subhashini-Jv&theme=tokyonight&hide_border=true" width="60%"/>
+---
 
-<br/>
+## Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Subhashini-Jv&theme=tokyo-night&hide_border=true" width="100%"/>
+<div align="center">
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Subhashini-Jv&theme=tokyonight&no-frame=true&no-bg=true&row=1" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Subhashini-Jv&theme=tokyo-night&hide_border=true" width="100%" alt="GitHub Contribution Activity"/>
 
 </div>
 
