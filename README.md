@@ -224,9 +224,13 @@ An analytics solution designed to explore customer retention, churn patterns, bu
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Subhashini-Jv&show_icons=true&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Statistics"/>
+<a href="https://github.com/Subhashini-Jv">
+<img src="https://github-stats-extended.vercel.app/api?username=Subhashini-Jv&show_icons=true&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Statistics"/>
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhashini-Jv&layout=compact&theme=tokyonight&hide_border=true" width="42%" alt="Top Languages"/>
+<a href="https://github.com/Subhashini-Jv">
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Subhashini-Jv&layout=compact&theme=tokyonight&hide_border=true" width="42%" alt="Top Languages"/>
+</a>
 
 </div>
 
@@ -236,7 +240,9 @@ An analytics solution designed to explore customer retention, churn patterns, bu
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Subhashini-Jv&theme=tokyo-night&hide_border=true" width="100%" alt="GitHub Contribution Activity"/>
+<a href="https://github.com/Subhashini-Jv">
+<img src="https://ghchart.rshah.org/409ba5/Subhashini-Jv" width="100%" alt="GitHub Contribution Activity"/>
+</a>
 
 </div>
 
